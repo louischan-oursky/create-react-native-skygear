@@ -1,6 +1,6 @@
 {
   "include": ["src/**/*"],
-  "files": ["node_modules/@oursky/ts-skygear/index.d.ts"],
+  "files": ["./node_modules/@oursky/ts-skygear/index.d.ts", "./node_modules/@oursky/react-native-javascript-environment-typescript/index.d.ts"],
   "compilerOptions": {
     "target": "ES5",
     "module": "commonjs",
